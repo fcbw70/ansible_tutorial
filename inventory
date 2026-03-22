@@ -1,4 +1,4 @@
-10.10.20.106
-10.10.20.107
-10.10.20.32
+10.10.20.106 ansible_user=user1
+10.10.20.107 ansible_user=user1
+10.10.20.32 ansible_user=fredric
 
