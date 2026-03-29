@@ -1,4 +1,13 @@
-10.10.20.106 ansible_user=user1
-10.10.20.107 ansible_user=user1
+[web_servers]
+10.10.20.106
+
+[db_servers]
+10.10.20.107 
+
+[file_servers]
+10.10.20.107
+
+[all:vars]
+ansible_user=user1
 
 
